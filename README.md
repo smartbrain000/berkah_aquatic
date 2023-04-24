@@ -9,8 +9,8 @@ Aplikasi Laporan Keuangan Toko Berkah Aquatic yang dibuat oleh <b>Muhamad Hikaya
 2. Mencegah hilangnya/rusak suatu data laporan keuangan penjualan/pengeluaran.
 
 ## Hasil yang telah dicapai : 
-- Sistem ini telah digunakan sebagai project Muhamad Hikayat pada mata kuliah Kerja Praktek.
-- Sistem ini telah di bahas dan di tulis dalam sebuah jurnal, sebagai syarat menjadi pemakalah Muhamad Hikayat dalam acara Seminar Teknologi Majalengka (STIMA).
+- Aplikasi ini telah digunakan sebagai project Muhamad Hikayat pada mata kuliah Kerja Praktek.
+- Aplikasi ini telah di bahas dan di tulis dalam sebuah jurnal, sebagai syarat menjadi pemakalah Muhamad Hikayat dalam acara Seminar Teknologi Majalengka (STIMA).
 - Jurnal tersebut sudah di publish, dan untuk link nya :  [APLIKASI LAPORAN KEUANGAN TOKO BERKAH AQUATIC BERBASIS WEB](https://prosiding.unma.ac.id/index.php/stima/article/view/742)
 
 ## Quickstart :
