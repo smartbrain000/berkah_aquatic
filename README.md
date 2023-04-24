@@ -5,7 +5,7 @@ Aplikasi Laporan Keuangan Toko Berkah Aquatic yang dibuat oleh <b>Muhamad Hikaya
 - Mengelola data penjualan dan pengeluaran.
 - Mencetak laporan data pendapatan.
 
-## Sistem ini dibuat dengan tujuan : 
+## Dibuat dengan tujuan : 
 1. Memudahkan pemilik dalam mengelola laporan keuangan yang ada pada toko.
 2. Mencegah hilangnya/rusak suatu data laporan keuangan penjualan/pengeluaran.
 
