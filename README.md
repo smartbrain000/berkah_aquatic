@@ -1,6 +1,6 @@
 # Aplikasi Laporan Keuangan Toko Berkah Aquatic Berbasis Web
 
-Aplikasi Laporan Keuangan Toko Berkah Aquatic yang dibuat oleh <b>Muhamad Hikayat</b> dengan menggunakan framework CodeIgniter 3 dan tampilannya menggunakan template [Matrix](https://matrixadmin.wrappixel.com/), yang memiliki fitur  : <br>
+Aplikasi Laporan Keuangan Toko Berkah Aquatic yang dibuat oleh <b>Muhamad Hikayat</b> dengan menggunakan framework CodeIgniter 3 dan tampilannya menggunakan [template Matrix](https://matrixadmin.wrappixel.com/), yang memiliki fitur  : <br>
 - Mengelola data penjualan dan pengeluaran.
 - Mencetak laporan data pendapatan.
 
